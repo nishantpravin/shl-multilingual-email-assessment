@@ -60,7 +60,6 @@ We use **XLM-RoBERTa-base** as the backbone encoder with task-specific predictio
 ├── methodology.pdf               # 3-Page formal methodology report with embedded figures
 ├── methodology.md                # Markdown source of methodology document
 ├── generate_visualizations.py    # Script generating publication-grade research figures
-├── generate_pdf_report.py        # Automated PDF compiler with embedded visual artifacts
 ├── figures/                      # Research figures & visualization artifacts
 │   ├── figure1_confusion_matrix.png
 │   ├── figure2_metric_correlations.png
