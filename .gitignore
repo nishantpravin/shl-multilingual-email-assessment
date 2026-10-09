@@ -30,3 +30,5 @@ build/
 
 # Logs
 *.log
+
+git_push_helper.py
