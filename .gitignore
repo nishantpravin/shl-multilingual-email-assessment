@@ -32,3 +32,4 @@ build/
 *.log
 
 git_push_helper.py
+generate_pdf_report.py
